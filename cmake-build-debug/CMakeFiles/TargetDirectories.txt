@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Grift/Desktop/readInTradingSessionList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Grift/Desktop/readInTradingSessionList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Grift/Desktop/readInTradingSessionList/cmake-build-debug/CMakeFiles/readInTradingSessionList.dir

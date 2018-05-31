@@ -1,0 +1,9 @@
+GE 
+	Dec, April, June, September
+ZT
+
+Look for trades above a certain threshold size
+GE8H.77
+look for 24 April week (week of April roll)
+week of Feb 24 (non-roll)
+ratio between bid and ask (outweigh can imply movement)

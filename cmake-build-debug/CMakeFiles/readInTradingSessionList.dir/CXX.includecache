@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Grift/Desktop/readInTradingSessionList/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+map
+-
+tuple
+-
+algorithm
+-
+

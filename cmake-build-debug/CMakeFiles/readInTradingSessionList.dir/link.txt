@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/readInTradingSessionList.dir/main.cpp.o  -o readInTradingSessionList.exe -Wl,--out-implib,libreadInTradingSessionList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
